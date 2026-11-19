@@ -54,3 +54,21 @@ h2 {
 #contact {
     background: #f4dce5;
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 8%;
+    background: white;
+}
+.navbar a {
+    color: #b34f7a;
+    text-decoration: none;
+    margin: 10px;
+}
+.logo {
+    font-weight: bold;
+    font-size: 20px;
+}
+
